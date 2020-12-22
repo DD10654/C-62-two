@@ -1,0 +1,84 @@
+#body
+{
+	text-align: center;
+	background-color: gray
+}
+
+
+
+img {
+	height: 360;
+	width: 360;
+}
+
+
+
+.container {
+	text-align: center;
+}
+
+#mycarousel {
+	background-color: red;
+}
+
+#mycarousel img {
+	height: 300px !important;
+	margin-top: 35px !important;
+}
+
+.carousel-inner h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: white;
+	font-size: 20px;
+}
+
+
+
+
+#marginTop
+{
+	padding-top: 200px;
+}
+
+#mycarousel1 
+{
+	background-color: blue;
+}
+
+#title
+{
+	background-color: aquamarine;
+	color: black;
+	font-family: 'Nerko One', cursive;
+}
+
+#no1
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+#no2
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+#no3
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+#no4
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+#no5
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+#no6
+{
+	font-family: 'Oswald', sans-serif;
+}
